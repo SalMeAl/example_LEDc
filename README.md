@@ -1,1 +1,1 @@
-Here is presented a code in c languagefor controlling led 3 in a Beagle Bone Pocket
+Here is presented a code in c language for controlling led 3 in a Beagle Bone Pocket
